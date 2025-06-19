@@ -4,6 +4,8 @@ GhostMap is a Bash-driven reconnaissance tool that **supercharges RustScan** wit
 
 Whether you're doing CTFs, bug bounties, or internal red teaming, GhostMap helps you spot **path smuggling vectors** and backend leaks — fast.
 
+This repo is intended for intial scan - as i have used the following flags -sS -Pn -n - must Fuzz for correct path for/if smugguling attack is possible.
+
 ---
 
 ## 🧠 Features
